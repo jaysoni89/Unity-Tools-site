@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Quick Scene Linter",
+    "slug": "quick-scene-linter",
+    "thumb": "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=800&auto=format&fit=crop",
+    "desc": "Scan scenes for common problems and missing references.",
+    "body": "<p>Detailed description and usage instructions...</p>",
+    "link": "#",
+    "tags": ["editor","lint"]
+  },
+  {
+    "title": "Prefab Batch Renamer",
+    "slug": "prefab-batch-renamer",
+    "thumb": "https://images.unsplash.com/photo-1526772662000-3f88f10405ff?q=80&w=800&auto=format&fit=crop",
+    "desc": "Rename and reparent prefabs in bulk with rules.",
+    "body": "<p>How to use the batch renamer...</p>",
+    "link": "#",
+    "tags": ["editor","utils"]
+  }
+]
